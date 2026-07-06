@@ -10,6 +10,7 @@ Freelance · [Upwork](https://www.upwork.com/freelancers/~012fe99d7d34edd46e?mp_
 
 - Automated data collection pipelines (APIs, structured web sources)
 - Monitoring bots and scheduled jobs (GitHub Actions, cron)
+- CI/CD pipelines: automated testing, deployment, and monitoring (GitHub Actions)
 - Lightweight internal tools with Streamlit / FastAPI
 - AI-assisted document and data parsing (invoices, resumes)
 
