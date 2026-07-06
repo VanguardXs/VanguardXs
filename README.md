@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Bexultan K.&fontColor=ffffff&fontSize=32&fontAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=header&text=Bexultan&fontColor=ffffff&fontSize=32&fontAlignY=55)
 
 Python developer focused on data extraction, monitoring, and automation.
 
