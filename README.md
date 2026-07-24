@@ -48,11 +48,11 @@ Freelance · [Upwork](https://www.upwork.com/freelancers/~012fe99d7d34edd46e?mp_
 - **[ai-invoice-extractor](https://github.com/VanguardXs/ai-invoice-extractor)** — invoice & receipt data extraction (PDF/photo) with Streamlit UI and Excel export
 - **[ai-resume-scorer](https://github.com/VanguardXs/ai-resume-scorer)** — screens and ranks resumes (PDF/DOCX) with Streamlit UI and Excel export
 - **[instagram-lead-scraper](https://github.com/VanguardXs/instagram-lead-scraper)** — keyword-based profile discovery, multi-stage filter funnel with pass/drop logging, contact extraction through link-in-bio pages and personal sites
-- **[stock-price-tracker](https://github.com/VanguardXs/stock-price-tracker)** — daily stock price collector, runs on a schedule via GitHub Actions
-- **[price-monitor-bot](https://github.com/VanguardXs/price-monitor-bot)** — Telegram bot for price monitoring across Amazon & Google Shopping
 - **[zillow-scraper](https://github.com/VanguardXs/zillow-scraper)** — real estate data pipeline (Zillow API + PostgreSQL + FastAPI)
-- **[web-scraping-python](https://github.com/VanguardXs/web-scraping-python)** — web scraping projects using Requests, BeautifulSoup, Selenium and Playwright
-
+- **[price-monitor-bot](https://github.com/VanguardXs/price-monitor-bot)** — Telegram bot for price monitoring across Amazon & Google Shopping
+- **[google-maps-scraper](https://github.com/VanguardXs/google-maps-scraper)** — business listings scraper with scroll-based loading and formatted Excel export
+- **[ecommerce-scraper](https://github.com/VanguardXs/ecommerce-scraper)** — product catalog scraper for a bot-protected site, JS rendering and clean output
+- **[stock-price-tracker](https://github.com/VanguardXs/stock-price-tracker)** — daily stock price collector, runs on a schedule via GitHub Actions
 ---
 
 📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/bexultan-kuralboyev-85a8b4384) · [Upwork](https://www.upwork.com/freelancers/~012fe99d7d34edd46e?mp_source=share)
